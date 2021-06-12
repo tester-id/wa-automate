@@ -1,0 +1,54 @@
+{
+  "users": {
+    "6281246897183@s.whatsapp.net": {
+      "exp": 13,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "</>",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "autolevelup": false
+    },
+    "6287758845234@s.whatsapp.net": {
+      "exp": 0,
+      "limit": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "</>",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "level": 0,
+      "autolevelup": false
+    }
+  },
+  "chats": {
+    "6281246897183@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false
+    }
+  },
+  "stats": {
+    "menu.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1623498598515,
+      "lastSuccess": 1623498598515
+    }
+  },
+  "msgs": {}
+}
